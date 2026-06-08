@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Snake Plant",
+    "image": "https://via.placeholder.com/300?text=Snake+Plant",
+    "description": "Low-maintenance indoor air purifier.",
+    "price": 299,
+    "category": "Indoor",
+    "stock": 120,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Lavender",
+    "image": "https://via.placeholder.com/300?text=Lavender",
+    "description": "Fragrant purple flowering herb.",
+    "price": 429,
+    "category": "Herb",
+    "stock": 65,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Monstera Deliciosa",
+    "image": "https://via.placeholder.com/300?text=Monstera",
+    "description": "Tropical plant with unique leaf holes.",
+    "price": 799,
+    "category": "Indoor",
+    "stock": 45,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Basil",
+    "image": "https://via.placeholder.com/300?text=Basil",
+    "description": "Culinary herb for cooking.",
+    "price": 199,
+    "category": "Herb",
+    "stock": 150,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Rose Plant",
+    "image": "https://via.placeholder.com/300?text=Rose",
+    "description": "Flowering garden plant.",
+    "price": 349,
+    "category": "Flowering",
+    "stock": 80,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "Spider Plant",
+    "image": "https://via.placeholder.com/300?text=Spider+Plant",
+    "description": "Easy-to-grow hanging plant.",
+    "price": 249,
+    "category": "Indoor",
+    "stock": 110,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Mint",
+    "image": "https://via.placeholder.com/300?text=Mint",
+    "description": "Fast-growing aromatic herb.",
+    "price": 179,
+    "category": "Herb",
+    "stock": 95,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Orchid",
+    "image": "https://via.placeholder.com/300?text=Orchid",
+    "description": "Elegant flowering houseplant.",
+    "price": 899,
+    "category": "Flowering",
+    "stock": 30,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Aloe Vera",
+    "image": "https://via.placeholder.com/300?text=Aloe+Vera",
+    "description": "Medicinal succulent plant.",
+    "price": 279,
+    "category": "Succulent",
+    "stock": 85,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Jade Plant",
+    "image": "https://via.placeholder.com/300?text=Jade+Plant",
+    "description": "Symbol of good luck succulent.",
+    "price": 399,
+    "category": "Succulent",
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "name": "Tulip Bulbs",
+    "image": "https://via.placeholder.com/300?text=Tulip",
+    "description": "Spring flowering bulbs set.",
+    "price": 499,
+    "category": "Flowering",
+    "stock": 200,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Peace Lily",
+    "image": "https://via.placeholder.com/300?text=Peace+Lily",
+    "description": "Air-purifying white flowers.",
+    "price": 449,
+    "category": "Indoor",
+    "stock": 70,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "name": "Rosemary",
+    "image": "https://via.placeholder.com/300?text=Rosemary",
+    "description": "Aromatic culinary herb.",
+    "price": 329,
+    "category": "Herb",
+    "stock": 55,
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "name": "Cactus Mix",
+    "image": "https://via.placeholder.com/300?text=Cactus",
+    "description": "Assorted desert cactus set.",
+    "price": 349,
+    "category": "Succulent",
+    "stock": 90,
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "name": "Sunflower Seeds",
+    "image": "https://via.placeholder.com/300?text=Sunflower",
+    "description": "Tall bright yellow flowers.",
+    "price": 149,
+    "category": "Flowering",
+    "stock": 300,
+    "rating": 4.7
+  },
+  {
+    "id": 16,
+    "name": "ZZ Plant",
+    "image": "https://via.placeholder.com/300?text=ZZ+Plant",
+    "description": "Drought-tolerant indoor plant.",
+    "price": 549,
+    "category": "Indoor",
+    "stock": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "name": "Thyme",
+    "image": "https://via.placeholder.com/300?text=Thyme",
+    "description": "Small-leaf cooking herb.",
+    "price": 229,
+    "category": "Herb",
+    "stock": 75,
+    "rating": 4.3
+  },
+  {
+    "id": 18,
+    "name": "Pothos",
+    "image": "https://via.placeholder.com/300?text=Pothos",
+    "description": "Trailing vine indoor plant.",
+    "price": 299,
+    "category": "Indoor",
+    "stock": 100,
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "name": "Echeveria",
+    "image": "https://via.placeholder.com/300?text=Echeveria",
+    "description": "Rosette-shaped succulent.",
+    "price": 379,
+    "category": "Succulent",
+    "stock": 50,
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "name": "Marigold",
+    "image": "https://via.placeholder.com/300?text=Marigold",
+    "description": "Bright orange garden flowers.",
+    "price": 199,
+    "category": "Flowering",
+    "stock": 180,
+    "rating": 4.3
+  },
+  {
+    "id": 21,
+    "name": "Rubber Plant",
+    "image": "https://via.placeholder.com/300?text=Rubber+Plant",
+    "description": "Large glossy leaves plant.",
+    "price": 649,
+    "category": "Indoor",
+    "stock": 35,
+    "rating": 4.5
+  },
+  {
+    "id": 22,
+    "name": "Oregano",
+    "image": "https://via.placeholder.com/300?text=Oregano",
+    "description": "Pizza and pasta herb.",
+    "price": 249,
+    "category": "Herb",
+    "stock": 85,
+    "rating": 4.4
+  },
+  {
+    "id": 23,
+    "name": "Fern",
+    "image": "https://via.placeholder.com/300?text=Fern",
+    "description": "Feathery leaf shade plant.",
+    "price": 329,
+    "category": "Indoor",
+    "stock": 65,
+    "rating": 4.2
+  },
+  {
+    "id": 24,
+    "name": "Haworthia",
+    "image": "https://via.placeholder.com/300?text=Haworthia",
+    "description": "Small striped succulent.",
+    "price": 289,
+    "category": "Succulent",
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 25,
+    "name": "Daisy Plants",
+    "image": "https://via.placeholder.com/300?text=Daisy",
+    "description": "Cheerful white garden flowers.",
+    "price": 279,
+    "category": "Flowering",
+    "stock": 95,
+    "rating": 4.4
+  },
+  {
+    "id": 26,
+    "name": "Fiddle Leaf Fig",
+    "image": "https://via.placeholder.com/300?text=Fiddle+Leaf",
+    "description": "Trendy large-leaf tree.",
+    "price": 1299,
+    "category": "Indoor",
+    "stock": 25,
+    "rating": 4.7
+  },
+  {
+    "id": 27,
+    "name": "Sage",
+    "image": "https://via.placeholder.com/300?text=Sage",
+    "description": "Gray-green culinary herb.",
+    "price": 299,
+    "category": "Herb",
+    "stock": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 28,
+    "name": "Chinese Money Plant",
+    "image": "https://via.placeholder.com/300?text=Money+Plant",
+    "description": "Round-leaved lucky plant.",
+    "price": 429,
+    "category": "Indoor",
+    "stock": 45,
+    "rating": 4.6
+  },
+  {
+    "id": 29,
+    "name": "Sedum",
+    "image": "https://via.placeholder.com/300?text=Sedum",
+    "description": "Ground cover succulent.",
+    "price": 259,
+    "category": "Succulent",
+    "stock": 110,
+    "rating": 4.2
+  },
+  {
+    "id": 30,
+    "name": "Lily Bulbs",
+    "image": "https://via.placeholder.com/300?text=Lily",
+    "description": "Fragrant trumpet flowers.",
+    "price": 599,
+    "category": "Flowering",
+    "stock": 120,
+    "rating": 4.5
+  },
+  {
+    "id": 31,
+    "name": "Bird of Paradise",
+    "image": "https://via.placeholder.com/300?text=Bird+Paradise",
+    "description": "Tropical statement plant.",
+    "price": 1499,
+    "category": "Indoor",
+    "stock": 20,
+    "rating": 4.8
+  },
+  {
+    "id": 32,
+    "name": "Parsley",
+    "image": "https://via.placeholder.com/300?text=Parsley",
+    "description": "Garnish and cooking herb.",
+    "price": 199,
+    "category": "Herb",
+    "stock": 100,
+    "rating": 4.2
+  },
+  {
+    "id": 33,
+    "name": "Calathea",
+    "image": "https://via.placeholder.com/300?text=Calathea",
+    "description": "Patterned prayer plant.",
+    "price": 499,
+    "category": "Indoor",
+    "stock": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 34,
+    "name": "String of Pearls",
+    "image": "https://via.placeholder.com/300?text=String+Pearls",
+    "description": "Trailing bead-like succulent.",
+    "price": 399,
+    "category": "Succulent",
+    "stock": 40,
+    "rating": 4.7
+  },
+  {
+    "id": 35,
+    "name": "Hydrangea",
+    "image": "https://via.placeholder.com/300?text=Hydrangea",
+    "description": "Large cluster flowering shrub.",
+    "price": 799,
+    "category": "Flowering",
+    "stock": 55,
+    "rating": 4.6
+  },
+  {
+    "id": 36,
+    "name": "Dracaena",
+    "image": "https://via.placeholder.com/300?text=Dracaena",
+    "description": "Architectural indoor tree.",
+    "price": 699,
+    "category": "Indoor",
+    "stock": 40,
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "name": "Cilantro",
+    "image": "https://via.placeholder.com/300?text=Cilantro",
+    "description": "Fresh tasting Mexican herb.",
+    "price": 179,
+    "category": "Herb",
+    "stock": 90,
+    "rating": 4.1
+  },
+  {
+    "id": 38,
+    "name": "Boston Fern",
+    "image": "https://via.placeholder.com/300?text=Boston+Fern",
+    "description": "Classic hanging fern.",
+    "price": 349,
+    "category": "Indoor",
+    "stock": 75,
+    "rating": 4.3
+  },
+  {
+    "id": 39,
+    "name": "Burro's Tail",
+    "image": "https://via.placeholder.com/300?text=Burro+Tail",
+    "description": "Long trailing succulent.",
+    "price": 449,
+    "category": "Succulent",
+    "stock": 35,
+    "rating": 4.5
+  },
+  {
+    "id": 40,
+    "name": "Peony Roots",
+    "image": "https://via.placeholder.com/300?text=Peony",
+    "description": "Large fragrant flowers.",
+    "price": 899,
+    "category": "Flowering",
+    "stock": 70,
+    "rating": 4.8
+  },
+  {
+    "id": 41,
+    "name": "Philodendron",
+    "image": "https://via.placeholder.com/300?text=Philodendron",
+    "description": "Heart-shaped leaf vine.",
+    "price": 379,
+    "category": "Indoor",
+    "stock": 80,
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "name": "Chives",
+    "image": "https://via.placeholder.com/300?text=Chives",
+    "description": "Onion-flavored thin herbs.",
+    "price": 219,
+    "category": "Herb",
+    "stock": 110,
+    "rating": 4.3
+  },
+  {
+    "id": 43,
+    "name": "Areca Palm",
+    "image": "https://via.placeholder.com/300?text=Areca+Palm",
+    "description": "Tropical feather palm.",
+    "price": 799,
+    "category": "Indoor",
+    "stock": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 44,
+    "name": "Lithops",
+    "image": "https://via.placeholder.com/300?text=Lithops",
+    "description": "Living stone succulent.",
+    "price": 329,
+    "category": "Succulent",
+    "stock": 25,
+    "rating": 4.4
+  },
+  {
+    "id": 45,
+    "name": "Dahlia Tubers",
+    "image": "https://via.placeholder.com/300?text=Dahlia",
+    "description": "Vibrant geometric flowers.",
+    "price": 649,
+    "category": "Flowering",
+    "stock": 85,
+    "rating": 4.7
+  },
+  {
+    "id": 46,
+    "name": "English Ivy",
+    "image": "https://via.placeholder.com/300?text=English+Ivy",
+    "description": "Climbing or trailing vine.",
+    "price": 279,
+    "category": "Indoor",
+    "stock": 95,
+    "rating": 4.2
+  },
+  {
+    "id": 47,
+    "name": "Dill",
+    "image": "https://via.placeholder.com/300?text=Dill",
+    "description": "Feathery pickling herb.",
+    "price": 239,
+    "category": "Herb",
+    "stock": 70,
+    "rating": 4.3
+  },
+  {
+    "id": 48,
+    "name": "Bamboo Palm",
+    "image": "https://via.placeholder.com/300?text=Bamboo+Palm",
+    "description": "Clumping palm for shade.",
+    "price": 599,
+    "category": "Indoor",
+    "stock": 35,
+    "rating": 4.5
+  },
+  {
+    "id": 49,
+    "name": "Aeonium",
+    "image": "https://via.placeholder.com/300?text=Aeonium",
+    "description": "Rose-shaped succulent.",
+    "price": 419,
+    "category": "Succulent",
+    "stock": 45,
+    "rating": 4.4
+  },
+  {
+    "id": 50,
+    "name": "Geranium",
+    "image": "https://via.placeholder.com/300?text=Geranium",
+    "description": "Colorful balcony flowers.",
+    "price": 329,
+    "category": "Flowering",
+    "stock": 125,
+    "rating": 4.3
+  }
+]

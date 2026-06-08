@@ -1,0 +1,22 @@
+{
+  "plants": [
+    {
+      "id": 1769495153501,
+      "name": "rose",
+      "price": 10,
+      "category": "outdoor",
+      "stock": 20,
+      "image": "http://localhost:5000/uploads/1769495153496-893073407.webp",
+      "description": "mmmmmmm"
+    },
+    {
+      "id": 1769506601798,
+      "name": "tulips",
+      "price": 50,
+      "category": "outdoor",
+      "stock": 30,
+      "description": "good plant to keep",
+      "image": "http://localhost:5000/uploads/1769506601794-144333523.webp"
+    }
+  ]
+}

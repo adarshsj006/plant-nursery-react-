@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1769499487884,
+      "name": "ashique",
+      "email": "ashique@gmail.com",
+      "passwordHash": "$2b$10$LVJfiWJcePPFELIx0FodcOA3c7H0PeHQqrNwMa01cHzi9VMBMPBXK",
+      "role": "user",
+      "createdAt": "2026-01-27T07:38:07.884Z"
+    },
+    {
+      "id": 1769505054279,
+      "name": "customer",
+      "email": "customer@gmail.com",
+      "passwordHash": "$2b$10$nZIwaa/D/dR8Aez4UQMCfOZfdvHpP2so/I1s/5KkCvS9w2134Z8sa",
+      "role": "user",
+      "phone": "1234567890",
+      "createdAt": "2026-01-27T09:10:54.279Z"
+    },
+    {
+      "id": 1776759746530,
+      "name": "adarsh sj",
+      "email": "manager@gmail.com",
+      "passwordHash": "$2b$10$.5E2zY60UTL/3nG0tfqHVeJlbND0RIwaAHQ9321wFn3QFOczoyrVK",
+      "role": "user",
+      "phone": "",
+      "createdAt": "2026-04-21T08:22:26.530Z"
+    }
+  ]
+}
